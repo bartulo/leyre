@@ -1,0 +1,31 @@
+((* set datos = cell.outputs[0].metadata.datos *))
+  ((* for modelo in datos['modelos'] *))
+    {\huge Modelo ((( modelo )))}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=15cm,height=8cm,keepaspectratio]{FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_((( datos['vuelo_pre'] )))_((( datos['vuelo_post'] )))_zona((( datos['zona'] )))_modelo((( modelo ))).png}
+      \caption{Mapa de la distribución del modelo ((( modelo ))) en el ((( datos['vuelo_pre'] )))}
+  \end{figure}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/EVOLUCION_HISTOGRAMA/histogram_((( datos['vuelo_pre'] )))_zona((( datos['zona'] )))_modelo((( modelo ))).png}
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_((( datos['vuelo_pre'] )))_((( datos['vuelo_post'] )))_zona((( datos['zona'] )))_modelo((( modelo ))).png}
+      \caption{A la izqda histogram de los retornos/$m^2$ del ((( datos['vuelo_pre'] ))) en la zona de distribución del modelo ((( modelo ))). A la derecha histograma de los retornos/$m^2$ del ((( datos['vuelo_post'] ))) en la misma zona. }
+  \end{figure}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=15cm,height=8cm,keepaspectratio]{FINALES/EVOLUCION_HISTOGRAMA/mapa_final_((( datos['vuelo_pre'] )))_((( datos['vuelo_post'] )))_zona((( datos['zona'] )))_modelo((( modelo ))).png}
+      \caption{Mapa de modelos de combustible en el ((( datos['vuelo_post'] ))) en la zona de distribución del modelo ((( modelo ))) del ((( datos['vuelo_pre'] )))}
+  \end{figure}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=9cm,height=8cm,keepaspectratio]{FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_((( datos['vuelo_pre'] )))_((( datos['vuelo_post'] )))_zona((( datos['zona'] )))_modelo((( modelo ))).png}
+      \caption{Evolución del modelo ((( modelo )))}
+  \end{figure}
+
+    \newpage
+  ((* endfor *))

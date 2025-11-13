@@ -1,0 +1,25 @@
+((* set datos = cell.outputs[0].metadata.datos *))
+  ((* for vuelo in datos['vuelos'] *))
+    {\huge ((( vuelo.capitalize() )))}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/arbolado_((( vuelo )))_zona((( datos['zona'] ))).png}
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/matorral_((( vuelo )))_zona((( datos['zona'] ))).png}
+      \caption{A la izqda mapa de arbolado y a la derecha mapa de matorral ((( vuelo ))).}
+  \end{figure}
+
+  \begin{figure}
+      \centering
+        \includegraphics[width=15cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/fm_((( vuelo )))_zona((( datos['zona'] ))).png}
+      \caption{Mapa de Modelos de combustible siguiendo la clasificación de Rothermel.}
+    \end{figure}
+
+    \begin{figure}
+      \centering
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/porcentaje_fm_((( vuelo )))_zona((( datos['zona'] ))).png}
+        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/HISTOGRAM/histogram_((( vuelo )))_zona((( datos['zona'] ))).png}
+      \caption{A la izqda figura que muestra porcentaje de cada modelo de combustible, a la dcha histograma de altura de la vegetación de la zona de estudio.}
+  \end{figure}
+    \newpage
+  ((* endfor *))
