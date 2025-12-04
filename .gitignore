@@ -5,3 +5,11 @@ FM/
 MDT/
 pg_data/
 shp/
+BRUTOS/
+BIOMASA/
+*out
+*tex
+*pdf
+*aux
+*log
+redaccion_biomasa_files/

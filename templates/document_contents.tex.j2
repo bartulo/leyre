@@ -13,6 +13,8 @@
   ((* include 'descripcion.tex.j2' *))
   ((* elif output.metadata['tipo'] == 'evolucion' *))
   ((* include 'evolucion.tex.j2' *))
+  ((* elif output.metadata['tipo'] == 'biomasa' *))
+  ((* include 'biomasa.tex.j2' *))
 
   ((* else *))
     \begin{Verbatim}[commandchars=\\\{\}]

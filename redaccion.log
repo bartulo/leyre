@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.11.9)  10 NOV 2025 11:05
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.11.9)  3 DEC 2025 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**redaccion.tex
+**redaccion
 (./redaccion.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1199,6 +1199,9 @@ Package hyperref Info: Link coloring ON on input line 401.
 \@outlinefile=\write5
 \openout5 = `redaccion.out'.
 
+ [1
+
+]
 File: FINALES/IMAGENES/ZONA1/arbolado_lida2_zona1.png Graphic file (type bmp)
 <FINALES/IMAGENES/ZONA1/arbolado_lida2_zona1.png>
 File: FINALES/IMAGENES/ZONA1/matorral_lida2_zona1.png Graphic file (type bmp)
@@ -1210,9 +1213,7 @@ mp)
 <FINALES/IMAGENES/ZONA1/porcentaje_fm_lida2_zona1.png>
 File: FINALES/HISTOGRAM/histogram_lida2_zona1.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_lida2_zona1.png>
- [1
-
-]
+ [2]
 File: FINALES/IMAGENES/ZONA1/arbolado_vuelo1_zona1.png Graphic file (type bmp)
 <FINALES/IMAGENES/ZONA1/arbolado_vuelo1_zona1.png>
 File: FINALES/IMAGENES/ZONA1/matorral_vuelo1_zona1.png Graphic file (type bmp)
@@ -1224,7 +1225,7 @@ bmp)
 <FINALES/IMAGENES/ZONA1/porcentaje_fm_vuelo1_zona1.png>
 File: FINALES/HISTOGRAM/histogram_vuelo1_zona1.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_vuelo1_zona1.png>
- [2]
+ [3]
 File: FINALES/IMAGENES/ZONA1/arbolado_lida3_zona1.png Graphic file (type bmp)
 <FINALES/IMAGENES/ZONA1/arbolado_lida3_zona1.png>
 File: FINALES/IMAGENES/ZONA1/matorral_lida3_zona1.png Graphic file (type bmp)
@@ -1236,7 +1237,7 @@ mp)
 <FINALES/IMAGENES/ZONA1/porcentaje_fm_lida3_zona1.png>
 File: FINALES/HISTOGRAM/histogram_lida3_zona1.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_lida3_zona1.png>
- [3]
+ [4]
 File: FINALES/IMAGENES/ZONA1/arbolado_vuelo2_zona1.png Graphic file (type bmp)
 <FINALES/IMAGENES/ZONA1/arbolado_vuelo2_zona1.png>
 File: FINALES/IMAGENES/ZONA1/matorral_vuelo2_zona1.png Graphic file (type bmp)
@@ -1248,7 +1249,7 @@ bmp)
 <FINALES/IMAGENES/ZONA1/porcentaje_fm_vuelo2_zona1.png>
 File: FINALES/HISTOGRAM/histogram_vuelo2_zona1.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_vuelo2_zona1.png>
- [4]
+ [5]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo1.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo1.png>
@@ -1260,31 +1261,31 @@ lo1.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona1_modelo1.p
 ng>
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 9.00096pt on input line 519.
+(Font)              scaled to size 9.00096pt on input line 521.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00064pt on input line 519.
+(Font)              scaled to size 6.00064pt on input line 521.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00053pt on input line 519.
+(Font)              scaled to size 5.00053pt on input line 521.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.99904pt on input line 519.
+(Font)              scaled to size 8.99904pt on input line 521.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 519.
+(Font)              scaled to size 5.99936pt on input line 521.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 519.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 519
+(Font)              scaled to size 4.99947pt on input line 521.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 521
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 519
+LaTeX Font Info:    Trying to load font information for U+msb on input line 521
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 51
-9.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 52
+1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
@@ -1296,7 +1297,7 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo1.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo1.p
 ng>
- [5] [6]
+ [6] [7]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo2.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo2.png>
@@ -1314,8 +1315,8 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo2.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo2.p
 ng>
- [7]
-[8]
+ [8]
+[9]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo4.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo4.png>
@@ -1333,7 +1334,7 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo4.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo4.p
 ng>
- [9] [10]
+ [10] [11]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo6.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo6.png>
@@ -1351,7 +1352,7 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo6.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo6.p
 ng>
- [11] [12]
+ [12] [13]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo7.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo7.png>
@@ -1369,7 +1370,207 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo7.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo7.p
 ng>
- [13] [14] (./redaccion.aux
+ [14] [15] [16]
+File: FINALES/IMAGENES/ZONA2/arbolado_lida2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/arbolado_lida2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/matorral_lida2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/matorral_lida2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/fm_lida2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/fm_lida2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/porcentaje_fm_lida2_zona2.png Graphic file (type b
+mp)
+<FINALES/IMAGENES/ZONA2/porcentaje_fm_lida2_zona2.png>
+File: FINALES/HISTOGRAM/histogram_lida2_zona2.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_lida2_zona2.png>
+ [17] [18]
+File: FINALES/IMAGENES/ZONA2/arbolado_vuelo1_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/arbolado_vuelo1_zona2.png>
+File: FINALES/IMAGENES/ZONA2/matorral_vuelo1_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/matorral_vuelo1_zona2.png>
+File: FINALES/IMAGENES/ZONA2/fm_vuelo1_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/fm_vuelo1_zona2.png>
+File: FINALES/IMAGENES/ZONA2/porcentaje_fm_vuelo1_zona2.png Graphic file (type 
+bmp)
+<FINALES/IMAGENES/ZONA2/porcentaje_fm_vuelo1_zona2.png>
+File: FINALES/HISTOGRAM/histogram_vuelo1_zona2.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_vuelo1_zona2.png>
+ [19] [20]
+File: FINALES/IMAGENES/ZONA2/arbolado_lida3_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/arbolado_lida3_zona2.png>
+File: FINALES/IMAGENES/ZONA2/matorral_lida3_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/matorral_lida3_zona2.png>
+File: FINALES/IMAGENES/ZONA2/fm_lida3_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/fm_lida3_zona2.png>
+File: FINALES/IMAGENES/ZONA2/porcentaje_fm_lida3_zona2.png Graphic file (type b
+mp)
+<FINALES/IMAGENES/ZONA2/porcentaje_fm_lida3_zona2.png>
+File: FINALES/HISTOGRAM/histogram_lida3_zona2.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_lida3_zona2.png>
+ [21] [22]
+File: FINALES/IMAGENES/ZONA2/arbolado_vuelo2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/arbolado_vuelo2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/matorral_vuelo2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/matorral_vuelo2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/fm_vuelo2_zona2.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA2/fm_vuelo2_zona2.png>
+File: FINALES/IMAGENES/ZONA2/porcentaje_fm_vuelo2_zona2.png Graphic file (type 
+bmp)
+<FINALES/IMAGENES/ZONA2/porcentaje_fm_vuelo2_zona2.png>
+File: FINALES/HISTOGRAM/histogram_vuelo2_zona2.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_vuelo2_zona2.png>
+ [23]
+[24]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo1.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo1.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo1.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo1.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo1.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo1.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo1.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo1.png>
+ [25]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo1.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo1.p
+ng>
+ [26]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo2.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo2.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo2.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo2.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo2.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo2.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo2.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo2.png>
+ [27]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo2.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo2.p
+ng>
+ [28]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo4.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo4.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo4.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo4.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo4.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo4.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo4.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo4.png>
+ [29]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo4.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo4.p
+ng>
+ [30]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo5.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo5.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo5.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo5.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo5.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo5.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo5.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo5.png>
+ [31]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo5.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo5.p
+ng>
+ [32]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo6.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo6.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo6.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo6.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo6.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo6.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo6.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo6.png>
+ [33]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo6.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo6.p
+ng>
+ [34]
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo7.png
+ Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo7.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo7.png Graphic f
+ile (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/histogram_vuelo1_zona2_modelo7.png>
+File: FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_mode
+lo7.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/evolucion_histogram_vuelo1_vuelo2_zona2_modelo7.p
+ng>
+File: FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo7.png G
+raphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/mapa_final_vuelo1_vuelo2_zona2_modelo7.png>
+ [35]
+File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_mode
+lo7.png Graphic file (type bmp)
+<FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona2_modelo7.p
+ng>
+ [36] [37]
+File: FINALES/IMAGENES/ZONA3/arbolado_lida2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/arbolado_lida2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/matorral_lida2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/matorral_lida2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/fm_lida2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/fm_lida2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/porcentaje_fm_lida2_zona3.png Graphic file (type b
+mp)
+<FINALES/IMAGENES/ZONA3/porcentaje_fm_lida2_zona3.png>
+File: FINALES/HISTOGRAM/histogram_lida2_zona3.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_lida2_zona3.png>
+ [38]
+[39]
+File: FINALES/IMAGENES/ZONA3/arbolado_lida3_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/arbolado_lida3_zona3.png>
+File: FINALES/IMAGENES/ZONA3/matorral_lida3_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/matorral_lida3_zona3.png>
+File: FINALES/IMAGENES/ZONA3/fm_lida3_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/fm_lida3_zona3.png>
+File: FINALES/IMAGENES/ZONA3/porcentaje_fm_lida3_zona3.png Graphic file (type b
+mp)
+<FINALES/IMAGENES/ZONA3/porcentaje_fm_lida3_zona3.png>
+File: FINALES/HISTOGRAM/histogram_lida3_zona3.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_lida3_zona3.png>
+ [40] [41]
+File: FINALES/IMAGENES/ZONA3/arbolado_vuelo2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/arbolado_vuelo2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/matorral_vuelo2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/matorral_vuelo2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/fm_vuelo2_zona3.png Graphic file (type bmp)
+<FINALES/IMAGENES/ZONA3/fm_vuelo2_zona3.png>
+File: FINALES/IMAGENES/ZONA3/porcentaje_fm_vuelo2_zona3.png Graphic file (type 
+bmp)
+<FINALES/IMAGENES/ZONA3/porcentaje_fm_vuelo2_zona3.png>
+File: FINALES/HISTOGRAM/histogram_vuelo2_zona3.png Graphic file (type bmp)
+<FINALES/HISTOGRAM/histogram_vuelo2_zona3.png>
+ [42] [43] (./redaccion.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -1381,12 +1582,12 @@ Package rerunfilecheck Info: File `redaccion.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32711 strings out of 476266
- 651742 string characters out of 5789848
- 1923627 words of memory out of 5000000
- 54115 multiletter control sequences out of 15000+600000
+ 33298 strings out of 476266
+ 687711 string characters out of 5789848
+ 1922627 words of memory out of 5000000
+ 54635 multiletter control sequences out of 15000+600000
  561871 words of font info for 67 fonts, out of 8000000 for 9000
  376 hyphenation exceptions out of 8191
- 101i,11n,114p,507b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 101i,11n,114p,503b,528s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on redaccion.pdf (14 pages).
+Output written on redaccion.pdf (43 pages).
