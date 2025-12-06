@@ -15,6 +15,10 @@
   ((* include 'evolucion.tex.j2' *))
   ((* elif output.metadata['tipo'] == 'biomasa' *))
   ((* include 'biomasa.tex.j2' *))
+  ((* elif output.metadata['tipo'] == 'imagen' *))
+  ((* include 'imagen.tex.j2' *))
+  ((* elif output.metadata['tipo'] == 'imagen_duo' *))
+  ((* include 'image_duo.tex.j2' *))
 
   ((* else *))
     \begin{Verbatim}[commandchars=\\\{\}]
