@@ -17,8 +17,12 @@
   ((* include 'biomasa.tex.j2' *))
   ((* elif output.metadata['tipo'] == 'imagen' *))
   ((* include 'imagen.tex.j2' *))
+  ((* elif output.metadata['tipo'] == 'imagen_transecto' *))
+  ((* include 'imagen_transecto.tex.j2' *))
   ((* elif output.metadata['tipo'] == 'imagen_duo' *))
-  ((* include 'image_duo.tex.j2' *))
+  ((* include 'imagen_duo.tex.j2' *))
+  ((* elif output.metadata['tipo'] == 'tabla_mc' *))
+  ((* include 'tabla_mc.tex.j2' *))
 
   ((* else *))
     \begin{Verbatim}[commandchars=\\\{\}]

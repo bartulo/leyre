@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{dNBR}
+Jon~E. Keeley.
+\newblock Fire intensity, fire severity and burn severity: a brief review and
+  suggested usage, 2009.
+
+\bibitem{Sentinel2}
+ESA/Copernicus.
+\newblock Imágenes del satélite sentinel-2 proporcionados por la agencia
+  espacial europea (esa), 2022.
+\newblock URL: \url{https://www.copernicus.eu/}.
+
+\bibitem{PNOA}
+Intituto~Geográfico Nacional.
+\newblock Plan nacional de ortofotografía aérea, 2017--.
+\newblock URL: \url{https://pnoa.ign.es}.
+
+\bibitem{Rothermel}
+Richard~C. Rothermel.
+\newblock A mathematical model for predicting fire spread in wildland fuels,
+  1972.
+
+\bibitem{Sol}
+María Soledad~Fernández Contreras.
+\newblock Creación de un método de obtención de mapas de combustible a
+  partir de datos lidar con validación en campo, 2019.
+
+\bibitem{Simoes}
+Luís Filipe~Rosa Simões.
+\newblock Lidar based biomass estimation system for forested areas, 2020.
+
+\end{thebibliography}

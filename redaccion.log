@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.11.9)  3 DEC 2025 15:49
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023/Debian) (preloaded format=xelatex 2025.11.9)  8 DEC 2025 18:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -828,6 +828,14 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip67
 )
+! Interruption.
+\__file_name_trim_spaces:nw ...l_trim_spaces:n {#1
+                                                  }}
+l.91     \usepackage
+                    {longtable} % longtable support required by pandoc >1.10
+? q
+OK, entering \batchmode...
+
 (/usr/share/texlive/texmf-dist/tex/latex/titling/titling.sty
 Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip68
@@ -872,8 +880,7 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count343
 \@lastruleclass=\count344
 \@thisrulewidth=\dimen302
-)
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count345
 \calc@Bcount=\count346
@@ -915,8 +922,7 @@ Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \Wrappedvisiblespacebox=\box92
 Package hyperref Info: Option `breaklinks' set `true' on input line 394.
 Package hyperref Info: Option `colorlinks' set `true' on input line 394.
-
-(./redaccion.aux
+ (./redaccion.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -953,7 +959,6 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1195,7 +1200,7 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
 t line 401.
 Package hyperref Info: Link coloring ON on input line 401.
-(./redaccion.out) (./redaccion.out)
+ (./redaccion.out) (./redaccion.out)
 \@outlinefile=\write5
 \openout5 = `redaccion.out'.
 
@@ -1315,8 +1320,7 @@ File: FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_mode
 lo2.png Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/pie_chart_evolucion_vuelo1_vuelo2_zona1_modelo2.p
 ng>
- [8]
-[9]
+ [8] [9]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo4.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona1_modelo4.png>
@@ -1418,8 +1422,7 @@ bmp)
 <FINALES/IMAGENES/ZONA2/porcentaje_fm_vuelo2_zona2.png>
 File: FINALES/HISTOGRAM/histogram_vuelo2_zona2.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_vuelo2_zona2.png>
- [23]
-[24]
+ [23] [24]
 File: FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo1.png
  Graphic file (type bmp)
 <FINALES/EVOLUCION_HISTOGRAMA/mapa_inicial_vuelo1_vuelo2_zona2_modelo1.png>
@@ -1545,8 +1548,7 @@ mp)
 <FINALES/IMAGENES/ZONA3/porcentaje_fm_lida2_zona3.png>
 File: FINALES/HISTOGRAM/histogram_lida2_zona3.png Graphic file (type bmp)
 <FINALES/HISTOGRAM/histogram_lida2_zona3.png>
- [38]
-[39]
+ [38] [39]
 File: FINALES/IMAGENES/ZONA3/arbolado_lida3_zona3.png Graphic file (type bmp)
 <FINALES/IMAGENES/ZONA3/arbolado_lida3_zona3.png>
 File: FINALES/IMAGENES/ZONA3/matorral_lida3_zona3.png Graphic file (type bmp)

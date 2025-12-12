@@ -228,7 +228,11 @@ override this.-=))
 
     % Add a bibliography block to the postdoc
     ((* block postdoc *))
-    ((* block bibliography *))((* endblock bibliography *))
+      ((* block bibliography *))
+      \bibliographystyle{unsrt}
+      \bibliography{ipython}
+      ((* endblock bibliography *))
     ((* endblock postdoc *))
 \end{document}
 ((* endblock body *))
+

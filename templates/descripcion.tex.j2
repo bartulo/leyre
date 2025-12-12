@@ -12,7 +12,7 @@
       \centering
         \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/arbolado_((( vuelo )))_zona((( datos['zona'] ))).png}
         \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/matorral_((( vuelo )))_zona((( datos['zona'] ))).png}
-      \caption{A la izqda mapa de arbolado y a la derecha mapa de matorral. Fuente: elaboración propia a partir de datos ((( vuelos_texto[vuelo] ))).}
+      \caption{A la izqda mapa de arbolado y a la derecha mapa de matorral. Fuente: elaboración propia a partir de datos LiDAR de ((( vuelos_texto[vuelo] ))).}
   \end{figure}
   
   De la combinación de estos dos mapas de vegetación se obtiene el mapa de modelos de combustible: 
@@ -20,22 +20,24 @@
   \begin{figure}
       \centering
         \includegraphics[width=15cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/fm_((( vuelo )))_zona((( datos['zona'] ))).png}
-      \caption{Mapa de Modelos de combustible siguiendo la clasificación de Rothermel. Fuente: elaboración propia a partir de datos ((( vuelos_texto[vuelo] ))).}
+      \caption{Mapa de Modelos de combustible siguiendo la clasificación de Rothermel. Fuente: elaboración propia a partir de datos LiDAR de ((( vuelos_texto[vuelo] ))).}
     \end{figure}
+
+  A continuación se muestra un gráfico circular donde se refleja en porcentaje de ocupación del suelo de cada modelo de combustible. También se adjunta un gráfico con el histograma de la distribución de todos los retornos clasificados como vegetación. El eje x del histograma representa la altura respecto al suelo de los retornos:
 
     \begin{figure}
       \centering
-        \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/porcentaje_fm_((( vuelo )))_zona((( datos['zona'] ))).png}
+        \includegraphics[width=7.5cm,height=7.5cm,keepaspectratio]{FINALES/IMAGENES/ZONA((( datos['zona'] )))/porcentaje_fm_((( vuelo )))_zona((( datos['zona'] ))).png}
         \includegraphics[width=7.5cm,height=8cm,keepaspectratio]{FINALES/HISTOGRAM/histogram_((( vuelo )))_zona((( datos['zona'] ))).png}
       \caption{A la izqda figura que muestra porcentaje de cada modelo de combustible, a la dcha histograma de altura de la vegetación de la zona de estudio.}
   \end{figure}
   ((( datos['textos'][vuelo] )))
-  \newline
 
   En la siguiente tabla se calcula la estimación de carga de combustible usando los modelos de Rothermel. Se muestra el modelo de combustible, la superficie que ocupa ese modelo medido en hectáreas y la carga estimada para ese modelo medido en toneladas, que es el resultado de multiplicar el area por el valor en T/ha que estima Rothermel para ese modelo. 
-    \begin{center}
+    \begin{figure}
+      \centering
   ((( datos['gdf'][vuelo] )))
-    \end{center}
-  La carga estimada total es de ((( datos['carga'][vuelo] ))) Toneladas
-    \newpage
+      \caption{Carga de cada modelo de combustible}
+    \end{figure}
+  La carga estimada total es de ((( datos['carga'][vuelo] | round(2) ))) Toneladas
   ((* endfor *))

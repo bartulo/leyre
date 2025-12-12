@@ -1,0 +1,14 @@
+((* set vuelos_texto = {
+  'lida2': 'IGN2017',
+  'lida3': 'IGN2024',
+  'vuelo1': 'Vuelo1',
+  'vuelo2': 'Vuelo2'
+} *))
+((* for filename in output.metadata['nombres'] *))
+((* set vuelo = filename.split('_')[1] *))
+\begin{figure}
+    \centering
+    \adjustimage{max size={0.9\linewidth}{0.72\paperheight}}{FINALES/IMAGENES/((( filename ))).png}
+    \caption{Perfil de puntos, puntos marrones son los clasificados como suelo y los verdes como vegetación. Fuente elaboración propia a partir de datos ((( vuelos_texto[vuelo] )))}
+\end{figure}
+((* endfor *))
